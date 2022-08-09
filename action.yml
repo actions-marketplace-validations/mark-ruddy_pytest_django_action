@@ -1,5 +1,5 @@
 # action.yml
-name: 'pytest-django-action'
+name: 'pytest-django-action-stepped'
 description: 'GitHub action to run pytest-django on your Django web app'
 branding:
   icon: 'check-square'
